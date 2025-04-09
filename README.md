@@ -33,6 +33,6 @@ git diff wayland.xml wayland_edit.xml
 ```
 
 ## Contact Me
-QQ: 3195187866  
-WeChat: ChengAnXu2014  
-Email: hippyandy@88.com  
+- QQ: 3195187866
+- WeChat: ChengAnXu2014
+- Email: hippyandy@88.com

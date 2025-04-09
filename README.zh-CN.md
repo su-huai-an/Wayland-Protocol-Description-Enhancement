@@ -37,6 +37,6 @@ git diff wayland.xml wayland_edit.xml
 ```
 
 ## 联系我
-qq: 3195187866  
-微信：ChengAnXu2014  
-邮箱：hippyandy@88.com  
+- qq: 3195187866
+- 微信：ChengAnXu2014
+- 邮箱：hippyandy@88.com
